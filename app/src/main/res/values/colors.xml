@@ -9,15 +9,14 @@
     <color name="white">#FFFFFFFF</color>
     <color name="main_grey">#d9d9d9</color>
 
+    <color name="main_colour_">#b1d4e0</color>
+    <color name="colour_almost_main">#72798A</color>
 
-    <color name="main_colour_">#B8CABA</color>
-    <color name="colour_almost_main">#5A6B5D</color>
 
+    <color name="add_colour_the_most_dark">#01031B</color>
 
-    <color name="add_colour_the_most_dark">#180C0C</color>
-
-    <color name="add_colour_not_like_main_darker">#97010E</color>
-    <color name="add_colour_not_like_main_2">#F34C3F</color>
+    <color name="add_colour_not_like_main_darker">#2D0D65</color>
+    <color name="add_colour_not_like_main_2">#3C54DA</color>
 
 
 

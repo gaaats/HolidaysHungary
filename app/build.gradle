@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.holidayscountrypacksecond.holidaygermany"
+        applicationId "com.holidayscountrypacksecond.holidayfrance"
         minSdk 26
         targetSdk 32
         versionCode 1
@@ -17,6 +17,7 @@ android {
         signingConfig signingConfigs.debug
 
         buildConfigField("String", "API_KEY", API_KEY)
+        buildConfigField("String", "API_PATH", API_PATH)
     }
 
     buildTypes {

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/startFragment"
-        android:name="com.holidayscountrypacksecond.holidaygermany.StartFragment"
+        android:name="com.holidayscountrypacksecond.holidayfrance.StartFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" >
         <action
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/resultFragment"
-        android:name="com.holidayscountrypacksecond.holidaygermany.ResultFragment"
+        android:name="com.holidayscountrypacksecond.holidayfrance.ResultFragment"
         android:label="fragment_result"
         tools:layout="@layout/fragment_result" >
         <action
@@ -41,7 +41,7 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.holidayscountrypacksecond.holidaygermany.SettingsFragment"
+        android:name="com.holidayscountrypacksecond.holidayfrance.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>
