@@ -11,7 +11,7 @@ interface CountryHolidaysService {
     companion object {
         const val BASE_URL = BuildConfig.API_PATH
         const val API_KEY = BuildConfig.API_KEY
-        const val COUNTRY = "France"
+        const val COUNTRY = "Italy"
         const val YEAR = "2022"
     }
 
