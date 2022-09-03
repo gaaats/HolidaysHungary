@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Extra Italy Holitivity</string>
+    <string name="app_name">Field Day Hungarian</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -9,7 +9,7 @@
     <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
     <string name="music">music</string>
     <string name="vibration">vibration</string>
-    <string name="text_activity_good">Italy, officially the Italian Republic or Republic of Italy, is a country that consists of a peninsula delimited by the Alps and several islands surrounding it; its territory largely coincides with the homonymous geographical region. Italy is located in the middle of the Mediterranean Sea, in Southern Europe; it is also considered part of Western Europe. A Unitary parliamentary republic with Rome as its capital and largest city, the country covers a total area of 301,230 km2 (116,310 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, as well as the enclaved microstates of Vatican City and San Marino. Italy has a territorial exclave in Switzerland, Campione. With over 60 million inhabitants,[21] Italy is the third-most populous member state of the European Union.</string>
+    <string name="text_activity_good">Hungary is a landlocked country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) of the Carpathian Basin, it is bordered by Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. Hungary has a population of nearly 10 million, mostly ethnic Hungarians and a significant Romani minority. Hungarian, the official language, is the worlds most widely spoken Uralic language and among the few non-Indo-European languages widely spoken in Europe.Budapest is the country capital and largest city; other major urban areas include Debrecen, Szeged, Miskolc, Pécs.</string>
     <string name="about"><u>about</u></string>
 
     <string-array name="diff_levels">
